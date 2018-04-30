@@ -24,10 +24,10 @@ $(call inherit-product, device/motorola/falcon/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_NAME := lineage_falcon
-PRODUCT_DEVICE := dumpling
+PRODUCT_DEVICE := falcon
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := Moto G
+PRODUCT_MODEL := falcon
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
